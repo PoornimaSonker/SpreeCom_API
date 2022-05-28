@@ -1,0 +1,14 @@
+{
+  "address": {
+    "firstname": "Stephen",
+    "lastname": "Smith",
+    "company": "Woodbank School",
+    "address1": "234 Old Georgetown Road",
+    "address2": "1st Floor",
+    "city": "Aethesda",
+    "phone": "34885493845002",
+    "zipcode": "90211",
+    "state_name": "CA",
+    "country_iso": "US"
+  }
+}

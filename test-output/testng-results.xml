@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-28T15:46:52 IST" name="Default suite" finished-at="2022-05-28T15:46:59 IST" duration-ms="6335">
+    <groups>
+    </groups>
+    <test started-at="2022-05-28T15:46:52 IST" name="Default test" finished-at="2022-05-28T15:46:59 IST" duration-ms="6335">
+      <class name="pk_sprecom.CountriesUsingExtentReportCallingUtility">
+        <test-method is-config="true" signature="Creating_Report()[pri:0, instance:pk_sprecom.CountriesUsingExtentReportCallingUtility@759d26fb]" started-at="2022-05-28T15:46:52 IST" name="Creating_Report" finished-at="2022-05-28T15:46:53 IST" duration-ms="586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Creating_Report -->
+        <test-method signature="getDefaultCountry()[pri:1, instance:pk_sprecom.CountriesUsingExtentReportCallingUtility@759d26fb]" started-at="2022-05-28T15:46:53 IST" name="getDefaultCountry" finished-at="2022-05-28T15:46:57 IST" duration-ms="4213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDefaultCountry -->
+        <test-method is-config="true" signature="TestResult(org.testng.ITestResult)[pri:0, instance:pk_sprecom.CountriesUsingExtentReportCallingUtility@759d26fb]" started-at="2022-05-28T15:46:57 IST" name="TestResult" finished-at="2022-05-28T15:46:57 IST" duration-ms="29" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getDefaultCountry status=SUCCESS method=CountriesUsingExtentReportCallingUtility.getDefaultCountry()[pri:1, instance:pk_sprecom.CountriesUsingExtentReportCallingUtility@759d26fb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestResult -->
+        <test-method signature="getCountry()[pri:2, instance:pk_sprecom.CountriesUsingExtentReportCallingUtility@759d26fb]" started-at="2022-05-28T15:46:57 IST" name="getCountry" finished-at="2022-05-28T15:46:58 IST" duration-ms="768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getCountry -->
+        <test-method is-config="true" signature="TestResult(org.testng.ITestResult)[pri:0, instance:pk_sprecom.CountriesUsingExtentReportCallingUtility@759d26fb]" started-at="2022-05-28T15:46:58 IST" name="TestResult" finished-at="2022-05-28T15:46:58 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getCountry status=SUCCESS method=CountriesUsingExtentReportCallingUtility.getCountry()[pri:2, instance:pk_sprecom.CountriesUsingExtentReportCallingUtility@759d26fb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestResult -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:pk_sprecom.CountriesUsingExtentReportCallingUtility@759d26fb]" started-at="2022-05-28T15:46:58 IST" name="afterTest" finished-at="2022-05-28T15:46:59 IST" duration-ms="659" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- pk_sprecom.CountriesUsingExtentReportCallingUtility -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
